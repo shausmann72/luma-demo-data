@@ -8,7 +8,7 @@
         "promoCode": "FLOW15-{{firstName}}",
         "discount": "15%",
         "bonus": "Free spot at next Sunrise Flow class",
-        "validThrough": "October 31st 2026",
+        "validThrough": "October 31st",
         "eligibility": "Flow members only",
         "ctaText": "Book a class now",
         "ctaUrl": "https://luma.enablementadobe.com/classes/yoga"
